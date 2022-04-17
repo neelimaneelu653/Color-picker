@@ -1,9 +1,6 @@
 Color Picker
 In this assignment, let's build a Color Picker by applying the concepts we learned till now.
 
-Refer to the below image.
-
-color-switcher
 Instructions:
 
 The HTML container element that is wrapping all the HTML elements should have the id colorPickerContainer
