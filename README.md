@@ -32,6 +32,3 @@ CSS Colors used:
 #222222
 #49a6e9
 
-CSS Font families used:
-
-Open Sans
